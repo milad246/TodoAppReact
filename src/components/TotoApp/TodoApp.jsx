@@ -3,7 +3,8 @@ import {
     AddTaskForm,
     TaskList,
     FilterFooter,
-} from '../'
+} from '../';
+import './TodoApp.css';
 const TodoApp = () => (
     <div className='TodoApp'>
     <AddTaskForm />
